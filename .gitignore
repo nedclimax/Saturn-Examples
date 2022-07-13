@@ -5,3 +5,6 @@ bin-int/
 *.vcxproj*
 *.log
 *.hint
+
+*.ini
+*.json
